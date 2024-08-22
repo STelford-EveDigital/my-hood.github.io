@@ -64,9 +64,9 @@
                  "value":"https:\/\/www.youtube.com\/embed\/2mckbEJlsNc?si=whFJd8br6hAccN2x"
                 }, 
                 {
-                 "name":"openWebsitePolicy",
+                 "name":"openWebsiteWidth",
                  "type":"string",
-                 "value":""
+                 "value":"30"
                 }],
          "type":"tilelayer",
          "visible":true,
