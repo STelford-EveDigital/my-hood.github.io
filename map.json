@@ -133,7 +133,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/playlist?list=PLv0bwuKUFT1eG0Dn08kI9kPs3oMgCQcxS"
+                 "value":"https:\/\/www.youtube.com\/embed\/?listType=playlist&list=PLv0bwuKUFT1eG0Dn08kI9kPs3oMgCQcxS"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
