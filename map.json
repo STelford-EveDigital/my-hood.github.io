@@ -1423,7 +1423,7 @@
         {
          "columns":25,
          "firstgid":9544,
-         "image":"..\/map-starter-kit\/tilesets\/WA_Room_Builder.png",
+         "image":"WA_Room_Builder.png",
          "imageheight":1280,
          "imagewidth":800,
          "margin":0,
@@ -1436,7 +1436,7 @@
         {
          "columns":12,
          "firstgid":10544,
-         "image":"..\/map-starter-kit\/tilesets\/WA_Other_Furniture.png",
+         "image":"WA_Other_Furniture.png",
          "imageheight":416,
          "imagewidth":384,
          "margin":0,
@@ -1449,7 +1449,7 @@
         {
          "columns":10,
          "firstgid":10700,
-         "image":"..\/map-starter-kit\/tilesets\/WA_Miscellaneous.png",
+         "image":"WA_Miscellaneous.png",
          "imageheight":352,
          "imagewidth":320,
          "margin":0,
@@ -1462,7 +1462,7 @@
         {
          "columns":12,
          "firstgid":10810,
-         "image":"..\/map-starter-kit\/tilesets\/WA_Decoration.png",
+         "image":"WA_Decoration.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
@@ -1475,7 +1475,7 @@
         {
          "columns":13,
          "firstgid":10906,
-         "image":"..\/map-starter-kit\/tilesets\/WA_Seats.png",
+         "image":"WA_Seats.png",
          "imageheight":448,
          "imagewidth":416,
          "margin":0,
@@ -1488,7 +1488,7 @@
         {
          "columns":10,
          "firstgid":11088,
-         "image":"..\/map-starter-kit\/tilesets\/WA_Tables.png",
+         "image":"WA_Tables.png",
          "imageheight":864,
          "imagewidth":320,
          "margin":0,
